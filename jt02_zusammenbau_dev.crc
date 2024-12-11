@@ -1,0 +1,22 @@
+﻿  Modell JT02_ZUSAMMENBAU_DEV: 
+
+
+  1 Zirkulärer-Bezug-Schleifen gefunden
+ 
+
+   Schleife Nr. 1
+
+   Schleifentiefe beträgt 4
+
+KE-Nummer 11 (KOMPONENTE, ID = 100)
+  in Modell JT02_ZUSAMMENBAU_DEV verweist auf:
+
+KE-Nummer 6 (PROFIL_1, ID = 3665)
+  in Modell JT02_004_DECKEL muss folgen nach:
+
+KE-Nummer 5 (SKIZZE_1, ID = 3655)
+  in Modell JT02_004_DECKEL verweist auf:
+
+KE-Nummer 11 (KOMPONENTE, ID = 100)
+  in Modell JT02_ZUSAMMENBAU_DEV - Kreis geschlossen.
+

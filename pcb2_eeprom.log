@@ -1,0 +1,249 @@
+﻿Pro/ENGINEER STEP Import-Protokolldatei
+
+Beginn des Einlesens: Thu Nov 28 14:27:39 2024
+
+Kopfzeileinfo in der STEP-Datei
+
+         File Description: Open CASCADE Model
+     Implementation level: 2;1
+                     Name: Open CASCADE Shape Model
+               Time Stamp: 2024-11-28T14:14:49
+                   Author: Author
+             Organization: Open CASCADE
+     Preprocessor Version: Open CASCADE STEP processor 6.8
+       Originating System: Open CASCADE 6.8
+            Authorization: Unknown
+              File Schema: AUTOMOTIVE_DESIGN { 1 0 10303 214 1 1 1 1 }
+
+
+ADVANCED_BREP_SHAPE_REPRESENTATION                          6
+ADVANCED_FACE                                             116
+APPLICATION_CONTEXT                                         1
+APPLICATION_PROTOCOL_DEFINITION                             1
+AXIS2_PLACEMENT_3D                                        148
+CARTESIAN_POINT                                           632
+CIRCLE                                                     16
+CLOSED_SHELL                                                6
+COLOUR_RGB                                                  5
+CONTEXT_DEPENDENT_SHAPE_REPRESENTATION                     15
+CURVE_STYLE                                                 4
+CYLINDRICAL_SURFACE                                         8
+DIRECTION                                                 580
+DRAUGHTING_PRE_DEFINED_COLOUR                               1
+DRAUGHTING_PRE_DEFINED_CURVE_FONT                           4
+EDGE_CURVE                                                300
+EDGE_LOOP                                                 128
+FACE_BOUND                                                128
+FILE_DESCRIPTION                                            1
+FILE_NAME                                                   1
+FILE_SCHEMA                                                 1
+FILL_AREA_STYLE                                            92
+FILL_AREA_STYLE_COLOUR                                     92
+GEOMETRIC_REPRESENTATION_CONTEXT                           15
+GLOBAL_UNCERTAINTY_ASSIGNED_CONTEXT                        15
+GLOBAL_UNIT_ASSIGNED_CONTEXT                               15
+ITEM_DEFINED_TRANSFORMATION                                15
+LENGTH_UNIT                                                15
+LINE                                                      284
+MANIFOLD_SOLID_BREP                                         6
+MECHANICAL_DESIGN_GEOMETRIC_PRESENTATION_REPRESENTATION     6
+NAMED_UNIT                                                 45
+NEXT_ASSEMBLY_USAGE_OCCURRENCE                             15
+ORIENTED_EDGE                                             600
+PLANE                                                     108
+PLANE_ANGLE_UNIT                                           15
+PRESENTATION_STYLE_ASSIGNMENT                              92
+PRODUCT                                                    15
+PRODUCT_CONTEXT                                            15
+PRODUCT_DEFINITION                                         15
+PRODUCT_DEFINITION_CONTEXT                                 15
+PRODUCT_DEFINITION_FORMATION                               15
+PRODUCT_DEFINITION_SHAPE                                   30
+PRODUCT_RELATED_PRODUCT_CATEGORY                           15
+REPRESENTATION_CONTEXT                                     15
+REPRESENTATION_RELATIONSHIP                                15
+REPRESENTATION_RELATIONSHIP_WITH_TRANSFORMATION            15
+SHAPE_DEFINITION_REPRESENTATION                            15
+SHAPE_REPRESENTATION                                        9
+SHAPE_REPRESENTATION_RELATIONSHIP                          15
+SI_UNIT                                                    45
+SOLID_ANGLE_UNIT                                           15
+STYLED_ITEM                                                92
+SURFACE_SIDE_STYLE                                         92
+SURFACE_STYLE_FILL_AREA                                    92
+SURFACE_STYLE_USAGE                                        92
+UNCERTAINTY_MEASURE_WITH_UNIT                              15
+VECTOR                                                    284
+VERTEX_POINT                                              200
+
+TOTAL                                                    4663
+
+
+Ende des Einlesens: Thu Nov 28 14:27:39 2024
+
+Gesamt-Einlesezeit: 00:00:00.
+
+
+The problems encountered during STEP import pre-processing:
+-----------------------------------------------------------
+Entity 346 (PRODUCT): Character not allowed in Pro/E model name was changed to '_'
+
+
+Modellinformationen werden verarbeitet _PCB2_EEPROM:
+
+Verarbeitet bis: Thu Nov 28 14:27:40 2024
+
+Gesamt-Verarbeitungszeit: 00:00:01.
+
+===========================================================================
+Not allowed characters in layer name "GEST_BEMAßUNG" were changed to _.
+
+
+Modellinformationen werden verarbeitet PCB:
+
+Verarbeitet bis: Thu Nov 28 14:27:40 2024
+
+Gesamt-Verarbeitungszeit: 00:00:00.
+
+===========================================================================
+Not allowed characters in layer name "GEST_BEMAßUNG" were changed to _.
+
+
+Modellinformationen werden verarbeitet Board:
+
+Verarbeitet bis: Thu Nov 28 14:27:41 2024
+
+Gesamt-Verarbeitungszeit: 00:00:01.
+
+===========================================================================
+Not allowed characters in layer name "GEST_BEMAßUNG" were changed to _.
+
+
+Modellinformationen werden verarbeitet Open_CASCADE_STEP_translator_6_:
+
+Verarbeitet bis: Thu Nov 28 14:27:41 2024
+
+Gesamt-Verarbeitungszeit: 00:00:00.
+
+===========================================================================
+Not allowed characters in layer name "GEST_BEMAßUNG" were changed to _.
+
+
+Modellinformationen werden verarbeitet U1:
+
+Verarbeitet bis: Thu Nov 28 14:27:42 2024
+
+Gesamt-Verarbeitungszeit: 00:00:01.
+
+===========================================================================
+Not allowed characters in layer name "GEST_BEMAßUNG" were changed to _.
+
+
+Modellinformationen werden verarbeitet -1638970368:
+
+Verarbeitet bis: Thu Nov 28 14:27:42 2024
+
+Gesamt-Verarbeitungszeit: 00:00:00.
+
+===========================================================================
+Not allowed characters in layer name "GEST_BEMAßUNG" were changed to _.
+
+
+Modellinformationen werden verarbeitet Extruded-395:
+
+Verarbeitet bis: Thu Nov 28 14:27:43 2024
+
+Gesamt-Verarbeitungszeit: 00:00:00.
+
+===========================================================================
+Not allowed characters in layer name "GEST_BEMAßUNG" were changed to _.
+
+
+Modellinformationen werden verarbeitet J1:
+
+Verarbeitet bis: Thu Nov 28 14:27:43 2024
+
+Gesamt-Verarbeitungszeit: 00:00:00.
+
+===========================================================================
+Not allowed characters in layer name "GEST_BEMAßUNG" were changed to _.
+
+
+Modellinformationen werden verarbeitet SSW-104-02-G-S-RA:
+
+Verarbeitet bis: Thu Nov 28 14:27:44 2024
+
+Gesamt-Verarbeitungszeit: 00:00:00.
+
+===========================================================================
+Not allowed characters in layer name "GEST_BEMAßUNG" were changed to _.
+
+
+Modellinformationen werden verarbeitet _SSW-104-02-G-S-RA_terminal:
+
+Verarbeitet bis: Thu Nov 28 14:27:44 2024
+
+Gesamt-Verarbeitungszeit: 00:00:00.
+
+===========================================================================
+Not allowed characters in layer name "GEST_BEMAßUNG" were changed to _.
+
+
+Modellinformationen werden verarbeitet _SSW-104-02-G-S-RA_pin:
+
+Verarbeitet bis: Thu Nov 28 14:27:45 2024
+
+Gesamt-Verarbeitungszeit: 00:00:00.
+
+===========================================================================
+Not allowed characters in layer name "GEST_BEMAßUNG" were changed to _.
+
+
+Modellinformationen werden verarbeitet C1:
+
+Verarbeitet bis: Thu Nov 28 14:27:45 2024
+
+Gesamt-Verarbeitungszeit: 00:00:00.
+
+===========================================================================
+Not allowed characters in layer name "GEST_BEMAßUNG" were changed to _.
+
+
+Modellinformationen werden verarbeitet -1638969288:
+
+Verarbeitet bis: Thu Nov 28 14:27:46 2024
+
+Gesamt-Verarbeitungszeit: 00:00:00.
+
+===========================================================================
+Not allowed characters in layer name "GEST_BEMAßUNG" were changed to _.
+
+
+Modellinformationen werden verarbeitet Extruded-3454:
+
+Verarbeitet bis: Thu Nov 28 14:27:46 2024
+
+Gesamt-Verarbeitungszeit: 00:00:00.
+
+===========================================================================
+Not allowed characters in layer name "GEST_BEMAßUNG" were changed to _.
+
+
+Modellinformationen werden verarbeitet -1638968888:
+
+Verarbeitet bis: Thu Nov 28 14:27:47 2024
+
+Gesamt-Verarbeitungszeit: 00:00:00.
+
+===========================================================================
+Not allowed characters in layer name "GEST_BEMAßUNG" were changed to _.
+
+
+Modellinformationen werden verarbeitet Extruded-3651:
+
+Verarbeitet bis: Thu Nov 28 14:27:47 2024
+
+Gesamt-Verarbeitungszeit: 00:00:00.
+
+===========================================================================
+Not allowed characters in layer name "GEST_BEMAßUNG" were changed to _.

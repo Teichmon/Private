@@ -1,0 +1,116 @@
+﻿Pro/ENGINEER STEP Import-Protokolldatei
+
+Beginn des Einlesens: Wed Nov 27 15:14:00 2024
+
+Kopfzeileinfo in der STEP-Datei
+
+         File Description: STEP AP214
+     Implementation level: 1
+                     Name: RJHSE-5384-02.STEP
+               Time Stamp: 2023-12-11T02:46:43
+                   Author: USER
+             Organization: 
+     Preprocessor Version: SwSTEP 2.0
+       Originating System: SolidWorks 2016
+            Authorization: 
+              File Schema: AUTOMOTIVE_DESIGN
+
+
+ADVANCED_FACE                                            1445
+APPLICATION_CONTEXT                                         2
+APPLICATION_PROTOCOL_DEFINITION                             2
+AXIS2_PLACEMENT_3D                                       1418
+BOUNDED_CURVE                                              85
+BOUNDED_SURFACE                                            65
+B_SPLINE_CURVE                                             85
+B_SPLINE_CURVE_WITH_KNOTS                                1225
+B_SPLINE_SURFACE                                           65
+B_SPLINE_SURFACE_WITH_KNOTS                               216
+CARTESIAN_POINT                                         23103
+CIRCLE                                                    188
+CLOSED_SHELL                                                2
+COLOUR_RGB                                                 23
+CONICAL_SURFACE                                            10
+CURVE                                                      85
+CYLINDRICAL_SURFACE                                       274
+DIRECTION                                                5379
+EDGE_CURVE                                               3956
+EDGE_LOOP                                                1553
+FACE_BOUND                                                108
+FACE_OUTER_BOUND                                         1445
+FILE_DESCRIPTION                                            1
+FILE_NAME                                                   1
+FILE_SCHEMA                                                 1
+FILL_AREA_STYLE                                            23
+FILL_AREA_STYLE_COLOUR                                     23
+GEOMETRIC_REPRESENTATION_CONTEXT                           24
+GEOMETRIC_REPRESENTATION_ITEM                             150
+GLOBAL_UNCERTAINTY_ASSIGNED_CONTEXT                        24
+GLOBAL_UNIT_ASSIGNED_CONTEXT                               24
+LENGTH_UNIT                                                24
+LINE                                                     2543
+MANIFOLD_SURFACE_SHAPE_REPRESENTATION                       1
+MECHANICAL_DESIGN_GEOMETRIC_PRESENTATION_REPRESENTATION    23
+NAMED_UNIT                                                 72
+OPEN_SHELL                                                  1
+ORIENTED_EDGE                                            7910
+PLANE                                                     945
+PLANE_ANGLE_UNIT                                           24
+PRESENTATION_LAYER_ASSIGNMENT                              23
+PRESENTATION_STYLE_ASSIGNMENT                              23
+PRODUCT                                                     1
+PRODUCT_CONTEXT                                             1
+PRODUCT_DEFINITION                                          1
+PRODUCT_DEFINITION_CONTEXT                                  1
+PRODUCT_DEFINITION_FORMATION_WITH_SPECIFIED_SOURCE          1
+PRODUCT_DEFINITION_SHAPE                                    1
+PRODUCT_RELATED_PRODUCT_CATEGORY                            1
+RATIONAL_B_SPLINE_CURVE                                    85
+RATIONAL_B_SPLINE_SURFACE                                  65
+REPRESENTATION_CONTEXT                                     24
+REPRESENTATION_ITEM                                       150
+SHAPE_DEFINITION_REPRESENTATION                             1
+SHELL_BASED_SURFACE_MODEL                                   1
+SI_UNIT                                                    72
+SOLID_ANGLE_UNIT                                           24
+STYLED_ITEM                                                23
+SURFACE                                                    65
+SURFACE_SIDE_STYLE                                         23
+SURFACE_STYLE_FILL_AREA                                    23
+SURFACE_STYLE_USAGE                                        23
+UNCERTAINTY_MEASURE_WITH_UNIT                              24
+VECTOR                                                   2543
+VERTEX_POINT                                             2596
+
+TOTAL                                                   58343
+
+
+Ende des Einlesens: Wed Nov 27 15:14:00 2024
+
+Gesamt-Einlesezeit: 00:00:00.
+
+
+
+Modellinformationen werden verarbeitet RJHSE-5384-02:
+
+Probleme und Warnungen beim Verarbeiten:
+-------------------------------------
+Element 1806, LINE : Nulllängen-Berandungskurve übersprungen.
+Element 12947, LINE : Nulllängen-Berandungskurve übersprungen.
+Element 16181, LINE : Nulllängen-Berandungskurve übersprungen.
+Element 28865, LINE : Nulllängen-Berandungskurve übersprungen.
+Element 31583, LINE : Nulllängen-Berandungskurve übersprungen.
+Element 34490, LINE : Nulllängen-Berandungskurve übersprungen.
+Element 35026, LINE : Nulllängen-Berandungskurve übersprungen.
+Element 35475, LINE : Nulllängen-Berandungskurve übersprungen.
+Element 39085, LINE : Nulllängen-Berandungskurve übersprungen.
+Element 48189, LINE : Nulllängen-Berandungskurve übersprungen.
+Element 49822, LINE : Nulllängen-Berandungskurve übersprungen.
+Element 54408, LINE : Nulllängen-Berandungskurve übersprungen.
+
+Verarbeitet bis: Wed Nov 27 15:14:02 2024
+
+Gesamt-Verarbeitungszeit: 00:00:02.
+
+===========================================================================
+Not allowed characters in layer name "GEST_BEMAßUNG" were changed to _.
