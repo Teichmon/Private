@@ -6,17 +6,23 @@
 
    Schleife Nr. 1
 
-   Schleifentiefe beträgt 4
+   Schleifentiefe beträgt 6
 
-KE-Nummer 11 (KOMPONENTE, ID = 100)
+KE-Nummer 8 (KOMPONENTE, ID = 55)
   in Modell JT02_ZUSAMMENBAU_DEV verweist auf:
 
-KE-Nummer 6 (PROFIL_1, ID = 3665)
-  in Modell JT02_004_DECKEL muss folgen nach:
+KE-Nummer 35 (Zug-Verbund-KE_1__2, ID = 6595)
+  in Modell JT02_001_00_GEHAUSE verweist auf:
 
-KE-Nummer 5 (SKIZZE_1, ID = 3655)
-  in Modell JT02_004_DECKEL verweist auf:
+KE-Nummer 32 (SKIZZE_21, ID = 6479)
+  in Modell JT02_001_00_GEHAUSE muss folgen nach:
 
-KE-Nummer 11 (KOMPONENTE, ID = 100)
+KE-Nummer 27 (SKIZZE_19, ID = 6099)
+  in Modell JT02_001_00_GEHAUSE verweist auf:
+
+KE-Nummer 13 (KOMPONENTE, ID = 612)
+  in Modell JT02_ZUSAMMENBAU_DEV muss folgen nach:
+
+KE-Nummer 8 (KOMPONENTE, ID = 55)
   in Modell JT02_ZUSAMMENBAU_DEV - Kreis geschlossen.
 
